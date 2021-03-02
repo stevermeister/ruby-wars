@@ -1,3 +1,4 @@
+# https://github.com/Codewars/codewars.com/wiki/Codewars-Ruby-Test-Framework
 
 $describing = false
 
