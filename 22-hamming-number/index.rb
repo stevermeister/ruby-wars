@@ -22,3 +22,22 @@ def hamming(n)
 
   end
 end
+
+
+
+
+
+
+
+
+# def hamming(n)
+#   result = [1]
+#   i = j = k = 0
+#   while result.size < n
+#     result << [result[i]*2,result[j]*3,result[k]*5].min
+#     i += 1 if result.last == result[i] * 2
+#     j += 1 if result.last == result[j] * 3
+#     k += 1 if result.last == result[k] * 5
+#   end
+#   result.last
+# end

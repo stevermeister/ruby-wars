@@ -1,3 +1,6 @@
+https://www.codewars.com/kata/5511b2f550906349a70004e1/train/ruby
+
+
 Define a function that takes in two non-negative integers `a` and `b` and returns the last decimal digit of `a^b` . Note that `a` and `b` may be very large!
 
 For example, the last decimal digit of `9^7` is `9`, since `9^7=47829699`. The last decimal digit of `(2^200)^2^300`, which has over `10^92` decimal digits, is `6`. Also, please take `0^0` to be `1`.
